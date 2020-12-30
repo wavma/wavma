@@ -6,11 +6,11 @@ Editing an image in your Wordpress admin, tweaking the font of a published graph
 
 ## Why
 
-Relative to software engineering, design tooling is woefully underdeveloped. The typical workflow for visual creativity is to conceptualize an idea, open an Adobe product, iterate until you get management by-in, and then ship...oops the graphic looks off in production, red line the changes, now message the designer (who's probably on twitter), etc.
+1. **Design Tooling** - Relative to software engineering, design tooling is woefully underdeveloped. The typical workflow for visual creativity is to conceptualize an idea, open an Adobe product, iterate until you get management by-in, and then ship...oops the graphic looks off in production, red line the changes, now message the designer (who's probably on twitter), etc.
 
-Full-feature design tools like Photoshop, Sketch, Figma let you add custom functionality with plugins, but still require the entire runtime of the main app.
+2. **Standalone Features** - Full-feature design tools like Photoshop, Sketch, Figma let you add custom functionality with plugins, but still require the entire runtime of the main app.
 
-Javascript libraries depend on HTML canvas or their own unique data model—Paper.js, Fabric.js, and Konva.js—which means rasterized or proprietary data that is hard or impossible to wrangle.
+3. **Resusable Designs** - Javascript libraries depend on HTML canvas or their own unique data model—Paper.js, Fabric.js, and Konva.js—which means rasterized or proprietary data that is hard or impossible to wrangle.
 
 ## Principles
 
