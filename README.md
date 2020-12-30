@@ -1,4 +1,4 @@
-# wavma
+# wavma.js
 
 Wavma lets *designers that code* create lightweight tools to design-in-place. Inspired by wonderful tools like Figma, Linear, and Slate, Wavma distills design tools into basic primitives that  can be combined to give you just the features you need, right when you need them.
 
