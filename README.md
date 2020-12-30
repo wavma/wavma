@@ -1,6 +1,6 @@
 # wavma.js
 
-Wavma lets *designers that code* create lightweight tools to design-in-place. Inspired by wonderful tools like Figma, Linear, and Slate, Wavma distills design tools into basic primitives that  can be combined to give you just the features you need, right when you need them.
+Wavma lets *designers that code* create lightweight tools to design-in-place. Inspired by wonderful tools like [Figma](https://www.figma.com/), [Linear](https://linear.app/), and [Slate](https://github.com/ianstormtaylor/slate), Wavma distills design tools into basic primitives that  can be combined to give you just the features you need, right when you need them.
 
 Editing an image in your Wordpress admin, tweaking the font of a published graphic, or adjusting the path of an SVG icon in VS Code, Wavma meets you where you are to let you make design changes on the fly.
 
