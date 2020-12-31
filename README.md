@@ -16,7 +16,7 @@ Editing the color of a visual in Wordpress, tweaking the font of a published vec
 
 - **Micro (Design) Services** - Need to just edit an SVG path? Import the component. Building a font tool? Import the component. Need to edit colors? Import...you get the idea.
 - **Betting on the DOM** - What's old is new: imperative programming. By ignoring an abstract syntax tree, Wavma utlizes the DOM as state and lets you drop-in any SVG and immediately start editing anything. It's slower for big files, but we're betting on the web and computers getting faster over time.
-- **SVG most the things** - Like Javascript for code, SVG is the vector language of the web. While we're still living in SVG 1.2 land (which came out a decade ago), SVG is the core primitive of Wavma, but not only output.
+- **SVG most the things** - Like Javascript for code, SVG is the vector language of the web. While we're still living in SVG 1.2 land (which came out a decade ago), SVG is the core primitive of Wavma, but not only the output.
 - **Normalize Events** - Drawing a rectangle on the web should work the same however you're doing it. For example you can draw a rectangle with SVG `<rect>`, HTML `<div>`, Canvas `rect()`, or WebGL `drawArrays(triangles)`.
 - **Useful exports** - Need a transparent PNG, usable SVG, or just a simple JPG? Wavma focuses on output as a first-class feature.
 
