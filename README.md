@@ -33,3 +33,8 @@ Editing the color of a visual in Wordpress, tweaking the font of a published vec
 - *Mobile*
 - *Transform*
 - *Boolean Operations*
+
+## Examples
+
+- [**Chrome Plugin Font Explorer**](https://wavma.com/alpha) - A browser plugin that allows you try any font on the web with your vector design (exported from Figma, Illustrator, etc).
+- [**DOM playground**](https://moeamaya.com) - A demo example of exploring what the DOM is capable of with a personal website that feels like a design tool.
